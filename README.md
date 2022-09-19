@@ -2,37 +2,37 @@
 
 ## [Best places to start learning SQL for free](https://www.linkedin.com/posts/deepanshuk_sql-data-career-activity-6976386058103980034-LypO/?utm_source=share&utm_medium=member_android)
 
-  1. SQL Interview prep doc: nerdsfornerds.in
+  1. [SQL Interview prep doc](nerdsfornerds.in)
   
-  2. Select * SQL: selectstarsql.com/
+  2. [Select * SQL](selectstarsql.com/)
 
-  3. Leetcode: lnkd.in/g3c5JGC
+  3. [Leetcode](lnkd.in/g3c5JGC)
 
-  4. LinkedIn Learning: lnkd.in/gQXFc4n
+  4. [LinkedIn Learning](lnkd.in/gQXFc4n)
 
-  5. Window Functions: lnkd.in/g3RtPCJ
+  5. [Window Functions](lnkd.in/g3RtPCJ)
 
-  6. HackerRank: lnkd.in/grv_9sB
+  6. [HackerRank](lnkd.in/grv_9sB)
 
-  7. W3 Schools: lnkd.in/gJPfrrv
+  7. [W3 Schools](lnkd.in/gJPfrrv)
 
-  8. CodeAcademy: lnkd.in/gT5xmpN
+  8. [CodeAcademy](lnkd.in/gT5xmpN)
 
-  9. SQLZOO: sqlzoo.net/
+  9. [SQLZOO](sqlzoo.net/)
 
-  10. SQL Bolt: sqlbolt.com/
+  10. [SQL Bolt](sqlbolt.com/)
 
-  11. Danny Ma's SQL: 8weeksqlchallenge.com/
+  11. [Danny Ma's SQL](8weeksqlchallenge.com/)
 
-  12. Interactive SQL: sqlcourse.com/
+  12. [Interactive SQL](sqlcourse.com/)
 
-  13. Pythonish SQL: stratascratch.com
+  13. [Pythonish SQL](stratascratch.com)
 
-  14. Just TSQL: sqlservertutorial.net
+  14. [Just TSQL](sqlservertutorial.net)
 
-  15. Last but not the least: mode.com
+  15. [Last but not the least](mode.com)
   
-  16. PRAGIM TECHNOLOGIES SQL playlist you tube playlist , https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB
+  16. [PRAGIM TECHNOLOGIES SQL playlist you tube playlist](https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB)
 
 ## Interview
 
@@ -72,7 +72,7 @@ https://lnkd.in/gwa5TNcX
 10. Joins in SQL - 
 https://lnkd.in/guqQeqJh
 
-https://www.linkedin.com/posts/pooja-jain-898253106_licreatoraccelerator-linkedinforcreators-activity-6959372104173514752-ky7y/?utm_source=linkedin_share&utm_medium=android_app
+[SQL Joins](https://www.linkedin.com/posts/pooja-jain-898253106_licreatoraccelerator-linkedinforcreators-activity-6959372104173514752-ky7y/?utm_source=linkedin_share&utm_medium=android_app)a
 
 11. Difference between where and having in mysql -
 https://lnkd.in/guqQeqJh
@@ -111,25 +111,17 @@ https://lnkd.in/gvCeVi5R
 5. LeetCode 184 - Department Highest Salary
 https://lnkd.in/gXWAknxK
 
-I will soon be adding more videos under the Advanced and LeetCode Playlists.
+[Youtube channel](https://lnkd.in/geJt-sMS)
 
-Link to subscribe to my youtube channel -
-https://lnkd.in/geJt-sMS
+[Meta and Uber SQL Problems | Data Science Interview](https://www.youtube.com/watch?v=3raOQS1hbcc)
 
-Meta and Uber SQL Problems | Data Science Interview
-https://www.youtube.com/watch?v=3raOQS1hbcc
-
-Top Ten SQL Interview Questions
-https://www.linkedin.com/feed/update/urn:li:activity:6912809590044704769/?utm_source=linkedin_share&utm_medium=android_app
-  
+[Top Ten SQL Interview Questions](https://www.linkedin.com/feed/update/urn:li:activity:6912809590044704769/?utm_source=linkedin_share&utm_medium=android_app)
   
 ## Below are 2 free SQL resources which are both fun and easy 
 
-SQL Masterclass Github Course
-https://lnkd.in/guSHn4VT
+[SQL Masterclass Github Course](https://lnkd.in/guSHn4VT)
 
-8 Week SQL Challenge case studies
-https://lnkd.in/dyxvUK6s
+[8 Week SQL Challenge case studies](https://lnkd.in/dyxvUK6s)
 
 ## 𝗚𝗶𝘃𝗲 𝗺𝗲𝘀𝘀𝘆 𝗦𝗤𝗟 𝗳𝗼𝗿𝗺𝗮𝘁𝘁𝗶𝗻𝗴 𝗻𝗼 𝗰𝗵𝗮𝗻𝗰𝗲! Lint it! #sqlfluff might be the best package for just that. Read on ⬇️
 
@@ -142,8 +134,9 @@ Even better - it doesn’t only complain, it also fixes the mess!
 
 Check it out, include it in your pre-commit hooks and build pipelines:
 
-𝗚𝗶𝘁𝗛𝘂𝗯: https://lnkd.in/ezWYJ7Ex
-𝗣𝗿𝗲-𝗰𝗼𝗺𝗺𝗶𝘁 𝗵𝗼𝗼𝗸𝘀: https://lnkd.in/eZxzT6Pk
+[𝗚𝗶𝘁𝗛𝘂𝗯](https://lnkd.in/ezWYJ7Ex)
+
+[𝗣𝗿𝗲-𝗰𝗼𝗺𝗺𝗶𝘁 𝗵𝗼𝗼𝗸𝘀](https://lnkd.in/eZxzT6Pk)
 
 
 
