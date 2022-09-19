@@ -2,7 +2,7 @@
 
 ## [Best places to start learning SQL for free](https://www.linkedin.com/posts/deepanshuk_sql-data-career-activity-6976386058103980034-LypO/?utm_source=share&utm_medium=member_android)
 
-  1. [SQL Interview prep doc](nerdsfornerds.in)
+  1. [PRAGIM TECHNOLOGIES SQL playlist you tube playlist](https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB)
   
   2. [Select * SQL](selectstarsql.com/)
 
@@ -32,7 +32,6 @@
 
   15. [Last but not the least](mode.com)
   
-  16. [PRAGIM TECHNOLOGIES SQL playlist you tube playlist](https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB)
 
 ## Interview
 
