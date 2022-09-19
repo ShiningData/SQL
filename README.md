@@ -72,7 +72,7 @@ https://lnkd.in/gwa5TNcX
 10. Joins in SQL - 
 https://lnkd.in/guqQeqJh
 
-[SQL Joins](https://www.linkedin.com/posts/pooja-jain-898253106_licreatoraccelerator-linkedinforcreators-activity-6959372104173514752-ky7y/?utm_source=linkedin_share&utm_medium=android_app)a
+[SQL Joins](https://www.linkedin.com/posts/pooja-jain-898253106_licreatoraccelerator-linkedinforcreators-activity-6959372104173514752-ky7y/?utm_source=linkedin_share&utm_medium=android_app)
 
 11. Difference between where and having in mysql -
 https://lnkd.in/guqQeqJh
